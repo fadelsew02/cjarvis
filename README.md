@@ -30,17 +30,4 @@ CJARVIS leverages the integration of multiple AI models for different services (
 - Real-time internet search integration for updated information
 - Versatile use cases including text generation, schedule management, health tracking, and more
 
-## Installation
 
-### Prerequisites
-
-- Node.js
-- Python
-- Django
-- ReactJS
-
-### Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/CJARVIS.git
