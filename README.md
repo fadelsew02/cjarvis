@@ -1,6 +1,6 @@
 # CJARVIS - Your Daily Companion AI
 
-Welcome to the CJARVIS GitHub repository! CJARVIS is an AI assistant designed for students. It's an everyday companion with which you can converse. It provides real-time health information, answers all your questions, and helps you organize your academic schedule and daily life. It optimizes students' academic performance by monitoring their health, schedule and lifestyle habits. It provides personalized recommendations to ensure a balance between studies and well-being.
+Welcome to the CJARVIS GitHub repository! CJARVIS is an AI assistant designed for students. It's an everyday companion with which you can converse. It answers all your questions, and helps you organize your academic schedule and daily life. It optimizes students' academic performance by monitoring their health, schedule and lifestyle habits. It provides personalized recommendations to ensure a balance between studies and well-being.
 
 ## Structure
 
