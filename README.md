@@ -16,7 +16,7 @@ Here, you will find the frontend code for the CJARVIS AI, implemented using Java
 This directory contains the trained AI models used by CJARVIS to enhance its capabilities. The models are implemented using Python-based AI/ML libraries and play a crucial role in answering user questions, managing schedules, and more.
 
 ### bot/
-This directory contains the source code for the Whatsapp bot, making CJARVIS usable within Whatsapp groups or for direct interaction with the bot on Whatsapp. 
+This directory contains the source code for the Telegram bot, making CJARVIS usable within Telegram groups or for direct interaction with the bot on Telegram. 
 
 ## Purpose
 
