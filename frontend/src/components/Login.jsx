@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './styl.css';
 
 
-const Signin = () => {
+const Login = () => {
     const navigate = useNavigate();
       const [email, setEmail] = useState('test@example.com'); // Valeur initiale pour l'email
   const [password, setPassword] = useState('password'); 
@@ -65,4 +65,4 @@ const handleSubmit = (event) => {
   )
 }
 
-export default Signin
+export default Login
